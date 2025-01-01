@@ -30,6 +30,7 @@ const CreatePage = () => {
       })
     }
     setNewProduct({name: "", price: "", image: ""});
+    // you can change the toast from 20 line to 5 lines
   }
 
 
